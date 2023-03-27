@@ -31,7 +31,7 @@
   <br>
   <p align="center"><b>Best ways to reach me 📩</b></p>
   <div style="display: inline-block"><br>
-   <a href="[https://www.linkedin.com/in/alibiohenrique/](https://www.linkedin.com/in/alibiohenrique/?locale=en_US)" target="_blank">
+   <a href="https://www.linkedin.com/in/alibiohenrique/?locale=en_US" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
      <a href="mailto:alibio.henrique@gmail.com">
