@@ -18,14 +18,14 @@
   <br>
   <div>
     <a href="https://github.com/alibiohenrique">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alibiohenrique&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibiohenrique&layout=compact&langs_count=7&theme=highcontrast">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alibiohenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibiohenrique&layout=compact&langs_count=7&theme=tokyonight">
     </a>
   </div>
   <br>
   <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alibiohenrique&theme=merko" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alibiohenrique&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
   <br>
