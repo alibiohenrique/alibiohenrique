@@ -1,6 +1,4 @@
-tg
  <p align="right"><img src="https://komarev.com/ghpvc/?username=alibiohenrique&label=Profile%20views&color=0e75b6&style=flat" alt="alibiohenrique" /></p>
-
 
 # Hello, world 🌎!
 
