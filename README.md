@@ -1,4 +1,4 @@
-
+tg
  <p align="right"><img src="https://komarev.com/ghpvc/?username=alibiohenrique&label=Profile%20views&color=0e75b6&style=flat" alt="alibiohenrique" /></p>
 
 
@@ -41,7 +41,7 @@ I'm continuously expanding my technical skills, and some of the technologies I w
 
 <br>
 
-## Technologies I Use 🛠️  
+## Softwares & Tech I Use 🛠️  
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,7 +52,7 @@ I'm continuously expanding my technical skills, and some of the technologies I w
 
 <br>
 
-## Technologies on My Learning Path 📚
+## Stacks on My Learning Path 📚
 
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
